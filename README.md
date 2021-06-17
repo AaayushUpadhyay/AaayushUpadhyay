@@ -23,15 +23,15 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <span><b>HTML5</b></span><br><br><br>
        <img height="64px" src="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667" data-canonical-src="https://cdn.svgporn.com/logos/html-5.svg" style="max-width:100%;">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <span><b>CSS#</b></span><br><br><br>
        <img height="64px" src="https://camo.githubusercontent.com/367dd0be4d8a115eea884c2794dd1ab8751034782a4cf9f0d0c1155fd984a7d0/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667" data-canonical-src="https://cdn.svgporn.com/logos/css-3.svg" style="max-width:100%;">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <span><b>Javascript<b></span><br><br><br>
        <img height="64px" src="https://camo.githubusercontent.com/0c6adf0b34772f192a1c98b80ca013f2d69e954738b20062a114d9bbd245aab5/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176617363726970742e737667" data-canonical-src="https://cdn.svgporn.com/logos/javascript.svg" style="max-width:100%;">
       </td>
       <td width="25%" align="center">
@@ -49,11 +49,11 @@
         <img height="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/django.png" data-canonical-src="https://cdn.svgporn.com/logos/django.svg" style="max-width:100%;">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span><b>Git</b></span><br><br><br>
         <img height="64px" src="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" data-canonical-src="https://cdn.svgporn.com/logos/git-icon.svg" style="max-width:100%;">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span><b>VS Code</b></span><br><br><br>
         <img height="64px" src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" data-canonical-src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="max-width:100%;">
       </td>
     </tr>
