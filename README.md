@@ -27,7 +27,7 @@
        <img height="64px" src="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667" data-canonical-src="https://cdn.svgporn.com/logos/html-5.svg" style="max-width:100%;">
       </td>
       <td width="25%" align="center">
-        <span><b>CSS#</b></span><br><br><br>
+        <span><b>CSS3</b></span><br><br><br>
        <img height="64px" src="https://camo.githubusercontent.com/367dd0be4d8a115eea884c2794dd1ab8751034782a4cf9f0d0c1155fd984a7d0/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667" data-canonical-src="https://cdn.svgporn.com/logos/css-3.svg" style="max-width:100%;">
       </td>
       <td width="25%" align="center">
